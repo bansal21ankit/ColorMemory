@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Colour Memory</string>
+
+    <!--Main Activity-->
+    <string name="main_score">Score :&#160;</string>
+    <string name="main_high_score">High Scores</string>
+
+    <!--Score Submission Dialog-->
+    <string name="score_title">Submit score :&#160;</string>
+    <string name="score_name_error">Name can\'t be empty.</string>
+    <string name="score_name">Player\'s name</string>
+    <string name="score_submit">Submit</string>
+
+    <!--HighScore Activity-->
+    <string name="high_score_rank">Rank</string>
+    <string name="high_score_score">Score</string>
+    <string name="high_score_name">Player</string>
+
+    <!--Round Dialog-->
+    <string name="round_result">Result of this round.</string>
+</resources>
